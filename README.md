@@ -62,7 +62,7 @@ Both model included the below steps:
 
 Database: [CSV file](https://github.com/PolFerrandis/NBA_Journey_Project/tree/main/Data)
 
-Vizualizations: seaborn / matplotlib
+Vizualizations: Seaborn / Matplotlib / [Tableau](https://public.tableau.com/app/profile/polferrandis/viz/NBAJourney/Story1)
 
 Code: [Jupyter Notebooks](https://github.com/PolFerrandis/NBA_Journey_Project/tree/main/Jupyter%20Notebooks) 
 
