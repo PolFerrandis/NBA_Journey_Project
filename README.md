@@ -89,9 +89,18 @@ _**Data visualization**_
 
 
 
-**_Correlations found_**
+**_Confusion Matrix_**
 
 
+Model 1
+
+<img width="403" alt="Screenshot 2021-12-16 at 15 46 04" src="https://user-images.githubusercontent.com/88676121/146393375-b8b1b030-7b6b-4c8d-b5e5-2550e22ef028.png">
+
+
+
+Model 2
+
+<img width="403" alt="Screenshot 2021-12-16 at 15 43 20" src="https://user-images.githubusercontent.com/88676121/146392936-279b3f86-5c7e-433a-b3bc-4f0f1f916920.png">
 
 
 
@@ -99,5 +108,5 @@ _**Data visualization**_
 
 Our 1st model can predict whether a college player will be drafted with an accuracy of more than a 94%.
 
-Our 2nd model can predict whether a college player will become an allstar with an accuracy of more than a 88%.
+Our 2nd model can predict whether a college player will become an allstar with an accuracy of more than a 87%.
 
