@@ -78,10 +78,36 @@ _**Data visualization**_
 <img width="1028" alt="Screenshot 2021-12-16 at 15 39 00" src="https://user-images.githubusercontent.com/88676121/146399267-50dd3595-4c7d-42a3-94c6-bd9991991d56.png">
 
 
+If we check the time they spent in uni and the pick number or position in which they were drafted.
+
+The majority of all stars only spent 1 year at University before becoming professionals.
+
+The majority of them were selected in the top 15.
+
+The chances of being drafted in a high position decreases for these that spend more time at university.
+
+
 <img width="1034" alt="Screenshot 2021-12-16 at 15 36 29" src="https://user-images.githubusercontent.com/88676121/146391704-77b541b5-931a-415b-bb04-19774a7c485c.png">
 
 
+While preparing the data for our model we have seen that 3 attributes weight more than others for all stars:
+
+BPM-USG-DRtg
+
+So I have decided to plot them together with NBA all stars in red and regular NBA players in blue.
+
+Red dots are better than avg and have in general higher BPM and USG and lower DRating.
+
+
 <img width="1025" alt="Screenshot 2021-12-16 at 15 36 45" src="https://user-images.githubusercontent.com/88676121/146391726-e4485d51-5da4-478b-9737-8a16f83d9dbf.png">
+
+
+Our ML model has predicted that 5/50 NBA 1st year players will become all stars.
+
+In order to validate our prediction we have plot them together with real all stars.
+
+They seem to be very aligned in the 3 main attributes we have previously identified as important.
+
 
 
 
