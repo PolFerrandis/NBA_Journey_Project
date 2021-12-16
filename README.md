@@ -26,15 +26,12 @@ Leveraging on the [data](https://github.com/PolFerrandis/NBA_Journey_Project/tre
 
 The data sets used consists of:
 
-- 17.000 College players statistics from 2008 to 2021, taking the single season stats for when the players declared their eligibility for the NBA draft.
+- 19.000 College players statistics from 2008 to 2021, taking the single season stats for when the players declared their eligibility for the NBA draft.
 
 - NBA Allstar rosters from 2008 to 2021
 
 - NBA Rookies 2021 
 
-
-
-For further details on all features, please refer to the [notebook](https://github.com/PolFerrandis/NBA_Journey_Project/tree/main/Jupyter%20Notebooks)
 
 
 ## Process & Tools
@@ -44,9 +41,9 @@ For further details on all features, please refer to the [notebook](https://gith
 I decided to create 2 separate prediction models for 2 different purposes:
 
 
-1 - Model to predict whether a college player will be drafted
+1 - Model to predict whether a college player will be drafted - [Notebook1](https://github.com/PolFerrandis/NBA_Journey_Project/blob/main/Jupyter%20Notebooks/1.Final%20Project%20-%20College%20players%20data%20preparation.ipynb) - [Notebook2](https://github.com/PolFerrandis/NBA_Journey_Project/blob/main/Jupyter%20Notebooks/2.Final%20Project%20-%20Model%201%20Draft%20NBA.ipynb) 
 
-2 - Model to predict whether a college player will become a future all star
+2 - Model to predict whether a college player will become a future all star - [Notebook3](https://github.com/PolFerrandis/NBA_Journey_Project/blob/main/Jupyter%20Notebooks/3.Final%20Project%20-%20NBA%20All%20star%20data%20collection.ipynb) - [Notebook4](https://github.com/PolFerrandis/NBA_Journey_Project/blob/main/Jupyter%20Notebooks/4.Final%20Project%20-%20NBA%20All%20star%20data%20preparation.ipynb) - [Notebook5](https://github.com/PolFerrandis/NBA_Journey_Project/blob/main/Jupyter%20Notebooks/5.Final%20Project%20-%20Model%202%20NBA%20All%20star%20prediction%20.ipynb)
 
 
 
@@ -67,7 +64,7 @@ Database: [CSV file](https://github.com/PolFerrandis/NBA_Journey_Project/tree/ma
 
 Vizualizations: seaborn / matplotlib
 
-Code: [Jupyter Notebook](https://github.com/PolFerrandis/NBA_Journey_Project/tree/main/Jupyter%20Notebooks) 
+Code: [Jupyter Notebooks](https://github.com/PolFerrandis/NBA_Journey_Project/tree/main/Jupyter%20Notebooks) 
 
 
 ## Visualization
