@@ -8,11 +8,11 @@
 
 
 ## Table of contents
-- [Project Brief](https://github.com/PolFerrandis/Lab-Readme-Iris-Predictions#project-brief)
-- [Data](https://github.com/PolFerrandis/Lab-Readme-Iris-Predictions#data)
-- [Process & Tools](https://github.com/PolFerrandis/Lab-Readme-Iris-Predictions#process--tools)
-- [Visualization](https://github.com/PolFerrandis/Lab-Readme-Iris-Predictions#visualization) 
-- [Key Take Aways](https://github.com/PolFerrandis/Lab-Readme-Iris-Predictions#visualization)
+- [Project Brief](https://github.com/PolFerrandis/NBA_Journey_Project/blob/main/README.md#project-brief)
+- [Data](https://github.com/PolFerrandis/NBA_Journey_Project/blob/main/README.md#data)
+- [Process & Tools](https://github.com/PolFerrandis/NBA_Journey_Project/blob/main/README.md#process--tools)
+- [Visualization](https://github.com/PolFerrandis/NBA_Journey_Project/blob/main/README.md#visualization) 
+- [Key Take Aways](https://github.com/PolFerrandis/NBA_Journey_Project/blob/main/README.md#key-take-aways)
 
 ## Project Brief
 **Scenario**: In the last years we have seen that NBA teams who win the title, have at least 2-3 allstar players in their roster. The draft selection is a great opportunity to build strong team, but at the same time it entails some risks for the franchises.
@@ -22,7 +22,7 @@
 
 ## Data
 
-Leveraging on the [data]() we have found, we used Python to explore the relationships between features.
+Leveraging on the [data](https://github.com/PolFerrandis/NBA_Journey_Project/tree/main/Data) we have found, we used Python to explore the relationships between features.
 
 The data sets used consists of:
 
@@ -34,7 +34,8 @@ The data sets used consists of:
 
 
 
-For further details on all features, please refer to the [notebook]()
+For further details on all features, please refer to the [notebook](https://github.com/PolFerrandis/NBA_Journey_Project/tree/main/Jupyter%20Notebooks)
+
 
 ## Process & Tools
 
@@ -62,11 +63,11 @@ Both model included the below steps:
 
 **Tools**
 
-Database: [CSV file]()
+Database: [CSV file](https://github.com/PolFerrandis/NBA_Journey_Project/tree/main/Data)
 
 Vizualizations: seaborn / matplotlib
 
-Code: [Jupyter Notebook]() 
+Code: [Jupyter Notebook](https://github.com/PolFerrandis/NBA_Journey_Project/tree/main/Jupyter%20Notebooks) 
 
 
 ## Visualization
