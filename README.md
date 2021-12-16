@@ -47,7 +47,7 @@ I decided to create 2 separate prediction models for 2 different purposes:
 
 
 
-Both model included the below steps:
+Both models included the below steps:
 
 
 - Dataset preparation which involved web scrapping
