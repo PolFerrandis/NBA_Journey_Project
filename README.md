@@ -1,6 +1,6 @@
 # The NBA Journey
 
-## Can we predict future NBA All Stars from their college performance?
+## Can we predict future NBA All Stars based on their College Basketball performance?
 
 
 
