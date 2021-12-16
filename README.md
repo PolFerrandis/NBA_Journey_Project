@@ -78,7 +78,7 @@ _**Data visualization**_
 <img width="1027" alt="Screenshot 2021-12-16 at 15 35 59" src="https://user-images.githubusercontent.com/88676121/146391651-74bd2b09-0423-4963-94e0-ae3ac7efcb7e.png">
 
 
-<img width="1025" alt="Screenshot 2021-12-16 at 15 36 45" src="https://user-images.githubusercontent.com/88676121/146391954-ec158801-0909-4e46-9fe2-cbc938507cc3.png">
+<img width="1028" alt="Screenshot 2021-12-16 at 15 39 00" src="https://user-images.githubusercontent.com/88676121/146399267-50dd3595-4c7d-42a3-94c6-bd9991991d56.png">
 
 
 <img width="1034" alt="Screenshot 2021-12-16 at 15 36 29" src="https://user-images.githubusercontent.com/88676121/146391704-77b541b5-931a-415b-bb04-19774a7c485c.png">
