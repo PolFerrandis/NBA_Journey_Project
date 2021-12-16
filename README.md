@@ -100,7 +100,7 @@ Model 2 Logistic regression - SMOTE
 <img width="403" alt="Screenshot 2021-12-16 at 15 43 20" src="https://user-images.githubusercontent.com/88676121/146392936-279b3f86-5c7e-433a-b3bc-4f0f1f916920.png">
 
 
-I have used other notebooks to experiment with other methods such as KNN, Tomek link that delivered lower accuracy.
+I have used other notebooks to experiment with other methods such as KNN, Random Forest and Tomek link that delivered lower accuracy.
 
 
 ## Key Take Aways
